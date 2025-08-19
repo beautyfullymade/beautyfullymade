@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm currently a FTCC student pursuing my Associate’s degree in Information Technology. 
 
 <!--
 **beautyfullymade/beautyfullymade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
