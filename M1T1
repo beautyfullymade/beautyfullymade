@@ -1,14 +1,18 @@
+/*
+CSC 134
+M1T1 for online section
+Toni Bethune
+09/07/2025
+program will greet user
+*/
 
-int main()
-{
-    string name;   // Variable to store user's name
+// magic words
+#include <iostream>
+using namespace standard_std;
 
-    // Prompt the user
-    cout << "Toni Bethune: ";
-    getline(cin, name);  // Read full name (including spaces)
+int main(){
 
-    // Display greeting
-    cout << "Hello, " << name << "! Welcome to C++ programming!" << endl;
 
-    return 0;
+
+    return 0; // no errors
 }
