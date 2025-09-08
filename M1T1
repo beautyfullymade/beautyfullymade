@@ -10,9 +10,15 @@ program will greet user
 #include <iostream>
 using namespace standard_std;
 
-int main(){
+{
+    string name;   // Variable to store user's name
 
+    // Prompt the user
+    cout << "Toni Bethune: ";
+    getline(cin, name);  // Read full name (including spaces)
 
+    // Display greeting
+    cout << "Hello, " << name << "! Welcome to C++ programming!" << endl;
 
-    return 0; // no errors
+    return 0;
 }
