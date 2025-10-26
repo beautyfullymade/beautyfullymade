@@ -1,6 +1,6 @@
 // CSC 151
 // M5HW2 - Widgets with Loops & Decision Structure (reuse M4HW1 tiers)
-// Bethune
+// Toni Bethune
 // 10/26/2025
 
 import java.math.BigDecimal;
