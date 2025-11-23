@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M6HW1_Bethune",
+            "request": "launch",
+            "mainClass": "M6HW1_Bethune",
+            "projectName": "beautyfullymade_5241b4c1"
+        },
+        {
+            "type": "java",
             "name": "M5HW1_Bethune",
             "request": "launch",
             "mainClass": "M5HW1_Bethune",
