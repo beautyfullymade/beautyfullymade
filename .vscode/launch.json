@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M7CW1_Assignment_Bethune",
+            "request": "launch",
+            "mainClass": "M7CW1_Assignment_Bethune",
+            "projectName": "beautyfullymade_5241b4c1"
+        },
+        {
+            "type": "java",
+            "name": "M7CW1_Assignment_LastName",
+            "request": "launch",
+            "mainClass": "M7CW1_Assignment_LastName",
+            "projectName": "beautyfullymade_5241b4c1"
+        },
+        {
+            "type": "java",
             "name": "M6Project_Bethune",
             "request": "launch",
             "mainClass": "M6Project_Bethune",
