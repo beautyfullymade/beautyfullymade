@@ -1,16 +1,24 @@
-## Hi there 👋 I'm currently a FTCC student pursuing my Associate’s degree in Information Technology. 
+Hi, I’m Toni Bethune 👋
+About Me
 
-<!--
-**beautyfullymade/beautyfullymade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently taking CSC-289: Programming Capstone and learning how to collaborate with AI tools as part of my programming and technology journey.
 
-Here are some ideas to get you started:
+My Foo 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building websites and gaming. I enjoy understanding how digital experiences are created behind the scenes, whether it’s a game mechanic, a website layout, or interactive features that bring ideas to life.
+
+Currently Learning
+
+🤖 AI collaboration and prompt engineering
+
+🐙 GitHub workflows and version control
+
+💡 Building my first AI assistants
+
+Fun Fact
+
+I’m a beginner Twitch streamer who loves gaming and exploring simulation games in my free time.
+
+Find Me
+
+📫 Right here on GitHub!
